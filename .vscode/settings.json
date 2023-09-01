@@ -1,0 +1,13 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "cSpell.words": [
+        "checkcircleo",
+        "closecircleo",
+        "Entypo",
+        "Ionicons",
+        "Siging",
+        "Signin",
+        "viewability"
+    ]
+}
