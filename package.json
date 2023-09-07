@@ -53,6 +53,6 @@
     "preset": "react-native"
   },
   "projectConfig": {
-    "backendApiBaseUrl": "https://magenta-clownfish-garb.cyclic.app/"
+    "backendApiBaseUrl": "https://cute-puce-cod-sari.cyclic.cloud/"
   }
 }
